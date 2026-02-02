@@ -1,27 +1,16 @@
-<h2 align="center">Hey! I'm Nurgül 👾</h2>
+<h2 align="center">Hey! I'm Nurgül 👋</h2>
 
 <p align="center">
-  I turn ideas into games, apps and occasional bugs 🐛
+  Developer • Game & Mobile • Curious Mind
 </p>
 
 ---
 
-### 🎯 Me in a nutshell
+### 👾 About Me
 
-- 🎮 Unity & C# — making small worlds  
-- 📱 Flutter — clean UI enjoyer  
-- 🤖 AI curious, not AI genius (yet)  
-- 🧪 learning by breaking things  
-- ☕ coffee = compiler fuel
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurgltnc&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurgltnc&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+I’m a 4th year Computer Engineering student who enjoys building real projects.  
+I mainly focus on game development with Unity & C#, mobile apps with Flutter. 
+I like learning by doing, breaking things, fixing them, and making them better.
 
 ---
 
@@ -29,10 +18,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-black?style=flat&logo=unity" />
+  <img src="https://img.shields.io/badge/C-orange?style=flat&logo=csharp" />
   <img src="https://img.shields.io/badge/C%23-green?style=flat&logo=csharp" />
   <img src="https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter" />
   <img src="https://img.shields.io/badge/Firebase-yellow?style=flat&logo=firebase" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql" />
   <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/Git-black?style=flat&logo=git" />
 </p>
 
 ---
