@@ -8,10 +8,7 @@
 
 ### 👩‍💻 About Me
 
-I’m a Computer Engineering graduate with hands-on experience in web and mobile application development.
-I mainly focus on web development with **Angular, TypeScript, JavaScript, HTML & CSS**, and also work with **Java, Flutter & Firebase**.
-I enjoy building real-world applications, solving problems, and learning by doing.
-I have also explored **3D game development with Unity & C#**, where I built a 3D FPS project.
+I’m a Computer Engineering graduate passionate about software development. I enjoy building web and mobile applications, solving problems, and continuously learning through hands-on projects.
 
 ---
 
